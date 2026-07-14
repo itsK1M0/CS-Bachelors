@@ -2,7 +2,7 @@
 
 An interactive directory of **Computer Science bachelor-level programs** offered across Moroccan public universities, browsable on an interactive map.
 
-🔗 **Live site:** `https://itsk1m0.github.io/CS-Bachelors/`
+🔗 **[Live site](https://itsk1m0.github.io/CS-Bachelors/)**
 
 ---
 
